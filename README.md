@@ -90,20 +90,22 @@ This confirmed the default gateway, network subnet, and assigned IP address of t
 The evidence includes:
 
 ### 1 Oracle VirtualBox interface.
+![VirtualBox-Manager](vm.png)
 
-Kali Linux running successfully.
+### 2 Kali Linux Desktop Environment.
+![Kali Linux Desktop](kali-desktop.png)
 
-VirtualBox network configuration.
+### 3 VirtualBox network configuration.
+![NAT network Configuration](NAT-configuration.png)
 
-Kali Linux IP address and network configuration.
+### 4 NAT adapters 
+![Nat adapters](NAT-adapters.png)
 
-Network connectivity test.
+### 5 Internet configuration
+![internet-config](internet-confip.png)
 
-DNS resolution test.
-
-Shared folder configuration.
-
-Virtual machine snapshot.
+### 6 Virtual machine snapshot.
+![vm snapshots](vm-snapshots.png)
 
 ##  Conclusion
 
